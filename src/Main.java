@@ -13,14 +13,15 @@ public class Main {
         System.out.println(bodyMassIndex);
 
         // task 3
-        double temperatureC = 6.5;
-        double temperatureF = 15.5;
-        double Fahrenheit = (9/5) * temperatureC + 32;
-        System.out.println(Fahrenheit);
+        double c = 25;
+        double f = (9.0/5.0) * c + 32;
+        System.out.println(f);
 
-        // task 7 (errors, don't know the right answer)
-        char a = n;
-        final int r = a + 1;
-        System.out.println('final int');
+        // task 7
+        char originalChar = 'A';
+        int shiftAmount = 3;
+        char encryptedChar = (char) (originalChar + shiftAmount);
+        System.out.println("Original Character: " + originalChar);
+        System.out.println("Encrypted Character: " + encryptedChar);
     }
 }
