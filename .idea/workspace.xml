@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f96e1e8-fd8c-44c4-83cf-2fadac111ed9" name="Changes" comment="Task 3 and 7 corrections.">
+    <list default="true" id="0f96e1e8-fd8c-44c4-83cf-2fadac111ed9" name="Changes" comment="Added tasks 4,5,6,8.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -15,6 +15,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="36d217da-0f7b-47c3-b0ae-217706c1138d" />
+        <option name="url" value="https://github.com/LohurLaura/homework03.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectId" id="2W4M7pBBpii7DXztSlDc8UjL2WZ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -67,12 +80,21 @@
       <option name="project" value="LOCAL" />
       <updated>1696333517602</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added tasks 4,5,6,8.">
+      <option name="closed" value="true" />
+      <created>1696336255634</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1696336255634</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Task 3 and 7 corrections." />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 3 and 7 corrections." />
+    <MESSAGE value="Added tasks 4,5,6,8." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added tasks 4,5,6,8." />
   </component>
 </project>

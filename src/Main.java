@@ -42,14 +42,14 @@ public class Main {
         System.out.println("Original Character: " + originalChar);
         System.out.println("Encrypted Character: " + encryptedChar);
 
-        //task 8 copied from the link, but something seems to be not working...
+        //task 8 copied from the link, but the Scanner doesn't seem to be working still...
         Scanner in = new Scanner(System.in);
 
         int a = in.nextInt();
         System.out.println("You entered integer 5" + a);
         int b = in.nextInt();
         System.out.println("You entered integer 2" + b);
-
-        System.out.println(a*b);
+        int result = a * b;
+        System.out.println("a*b= " + result);
     }
 }
